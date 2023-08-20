@@ -15,12 +15,12 @@
 
 # Steps for installation
 - Enter these commands in terminal 
-`
+```
 git clone https://github.com/kunalg123/riscv_workshop_collaterals
 cd riscv_workshop_collaterals
 chmod 755 run.sh
 ./run.sh 
-`
+```
   
 # ASIC Flow Course Assignments - Guided by Kunal Ghosh
 # Table of contents
