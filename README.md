@@ -22,3 +22,14 @@ Task-3 : Lab For Signed And Unsigned Numbers
 ![#6_2](https://github.com/Pavan2280/pes_asic_class/assets/131603225/ffd2fced-a464-45e8-be37-451147b8420a)
 ![#7_1](https://github.com/Pavan2280/pes_asic_class/assets/131603225/a1994ddc-1b9c-4497-8984-8b1dcddc66ff)
 ![#7_2](https://github.com/Pavan2280/pes_asic_class/assets/131603225/d0ee8cd2-162a-4f00-b285-2b95f48bce44)
+
+
+DAY-2 :  Introduction to ABI and basic verification flow
+
+Task-1 :  Sum 1 to N Using ASM
+![#8](https://github.com/Pavan2280/pes_asic_class/assets/131603225/f1400495-8618-470f-9b3a-aa7c61b8eb6e)
+![#8_1](https://github.com/Pavan2280/pes_asic_class/assets/131603225/8311e3f6-fa0e-4eb7-84c1-7ef8488f6ea3)
+
+Task-2 :  Lab To Run C-Program On RISC-V CPU
+![#8_3](https://github.com/Pavan2280/pes_asic_class/assets/131603225/519d8386-d509-40d6-bfca-b1817b4d2bd9)
+
