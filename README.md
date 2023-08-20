@@ -91,7 +91,6 @@ chmod 755 run.sh
     ![#8_1](https://github.com/Pavan2280/pes_asic_class/assets/131603225/8311e3f6-fa0e-4eb7-84c1-7ef8488f6ea3)
 
    -  Task-2 : Lab To Run C-Program On RISC-V CPU
-    + Command to execute code using riscv
     ```
     chmod 777 rv32im.sh
     ./rv32im.sh
