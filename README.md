@@ -27,7 +27,7 @@ chmod 755 run.sh
 + DAY-1 : Introduction to RISC-V ISA and GNU compiler toolchain
 
    - Task-1 : C Program To Compute Sum From 1 to N (using gcc) & Spike Simulation And Debug (using RISCV)
-    > Command to execute code using gcc
+    + Command to execute code using gcc
     ```
     gcc 1_n_sum.c
     ./a.out
