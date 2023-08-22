@@ -43,13 +43,13 @@ chmod 755 run.sh
     ```
     spike -d pk 1_n_sun.o
     ```
-    ![#4_3](https://github.com/Pavan2280/pes_asic_class/assets/131603225/9a9d88ea-acab-44fb-8af0-1ec5658b3cd8)
+    ![de](https://github.com/Pavan2280/pes_asic_class/assets/131603225/ac22b9e7-6c71-423a-bfd7-a445ec226e95)
 
    - Task-3 : Contents of main using different optimizer
    - Using 1 : -O1 optimizer
-    
+    ![o1](https://github.com/Pavan2280/pes_asic_class/assets/131603225/73e41365-2431-4fba-8f57-14f2308e28fb)
    -  Using 2 : -Ofast optimizer
-    
+    ![ofast](https://github.com/Pavan2280/pes_asic_class/assets/131603225/cac8e8f0-1def-482b-9cbe-348f6ed8dc33)
 
    - Task-4 : Lab For Signed And Unsigned Numbers
     + Command to execute code using gcc
@@ -95,8 +95,8 @@ chmod 755 run.sh
     ```  
     ![#8](https://github.com/Pavan2280/pes_asic_class/assets/131603225/f1400495-8618-470f-9b3a-aa7c61b8eb6e)
     ![#8_1](https://github.com/Pavan2280/pes_asic_class/assets/131603225/8311e3f6-fa0e-4eb7-84c1-7ef8488f6ea3)
-    ![8_3](https://github.com/Pavan2280/pes_asic_class/assets/131603225/a565fe00-4ac6-42ee-8d29-571b9fdd8c35)
-    
+    ![8_4_new](https://github.com/Pavan2280/pes_asic_class/assets/131603225/e88722d5-63b8-41e2-9e41-35c9bbf87080)
+
    -  Task-2 : Lab To Run C-Program On RISC-V CPU
     ```
     chmod 777 rv32im.sh
