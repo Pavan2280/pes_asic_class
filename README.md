@@ -87,7 +87,7 @@ chmod 755 run.sh
 
 + DAY-2 : Introduction to ABI and basic verification flow
 
-   - Task-1 : Sum 1 to N Using ASM
+   - Task-1 : Sum 1 to N Using ASM and simulating C program with function call
     + Command to execute code using riscv
     ```
     riscv64-unknown-elf-gcc -ofast mabi=lp64 -march=rv64i -o 1_9custom.o 1_9custom.c load.s
@@ -95,9 +95,8 @@ chmod 755 run.sh
     ```  
     ![#8](https://github.com/Pavan2280/pes_asic_class/assets/131603225/f1400495-8618-470f-9b3a-aa7c61b8eb6e)
     ![#8_1](https://github.com/Pavan2280/pes_asic_class/assets/131603225/8311e3f6-fa0e-4eb7-84c1-7ef8488f6ea3)
+    ![8_3](https://github.com/Pavan2280/pes_asic_class/assets/131603225/a565fe00-4ac6-42ee-8d29-571b9fdd8c35)
     
-
-
    -  Task-2 : Lab To Run C-Program On RISC-V CPU
     ```
     chmod 777 rv32im.sh
