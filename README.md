@@ -47,7 +47,17 @@ chmod 755 run.sh
 
    - Task-3 : Contents of main using different optimizer
    - Using 1 : -O1 optimizer
+    + Command to execute code using riscv
+    ```
+    riscv64-unknown-elf-gcc -o1 mabi=lp64 -march=rv64i -o 1_n_sum.o 1_n_sum.c
+    riscv64-unknown-elf-objdump -d 1_n_sum.o | less
+    ```
     ![o1](https://github.com/Pavan2280/pes_asic_class/assets/131603225/2765fb0e-439d-404d-8b39-ef2089ca746b)
+    + Command to execute code using riscv
+    ```
+    riscv64-unknown-elf-gcc -ofast mabi=lp64 -march=rv64i -o 1_n_sum.o 1_n_sum.c
+    riscv64-unknown-elf-objdump -d 1_n_sum.o | less
+    ```
    -  Using 2 : -Ofast optimizer
     ![ofast](https://github.com/Pavan2280/pes_asic_class/assets/131603225/cac8e8f0-1def-482b-9cbe-348f6ed8dc33)
 
@@ -92,6 +102,7 @@ chmod 755 run.sh
     ```
     riscv64-unknown-elf-gcc -ofast mabi=lp64 -march=rv64i -o 1_9custom.o 1_9custom.c load.s
     spike pk 1_9custom.o
+    riscv64-unknown-elf-objdump -d 1_9custom.o | less
     ```  
     ![#8](https://github.com/Pavan2280/pes_asic_class/assets/131603225/f1400495-8618-470f-9b3a-aa7c61b8eb6e)
     ![#8_1](https://github.com/Pavan2280/pes_asic_class/assets/131603225/8311e3f6-fa0e-4eb7-84c1-7ef8488f6ea3)
