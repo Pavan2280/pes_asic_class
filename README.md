@@ -47,7 +47,7 @@ chmod 755 run.sh
 
    - Task-3 : Contents of main using different optimizer
    - Using 1 : -O1 optimizer
-    ![o1](https://github.com/Pavan2280/pes_asic_class/assets/131603225/73e41365-2431-4fba-8f57-14f2308e28fb)
+    ![o1](https://github.com/Pavan2280/pes_asic_class/assets/131603225/2765fb0e-439d-404d-8b39-ef2089ca746b)
    -  Using 2 : -Ofast optimizer
     ![ofast](https://github.com/Pavan2280/pes_asic_class/assets/131603225/cac8e8f0-1def-482b-9cbe-348f6ed8dc33)
 
