@@ -47,9 +47,9 @@ chmod 755 run.sh
 
    - Task-3 : Contents of main using different optimizer
    - Using 1 : -O1 optimizer
-    ![2_1_o1](https://github.com/Pavan2280/pes_asic_class/assets/131603225/89292ac3-12c0-4f52-a86c-465781e6c27f)
+    
    -  Using 2 : -Ofast optimizer
-    ![2_1_0fast](https://github.com/Pavan2280/pes_asic_class/assets/131603225/916e33ac-8c02-4f7b-89a6-4ea69eb80b12)
+    
 
    - Task-4 : Lab For Signed And Unsigned Numbers
     + Command to execute code using gcc
@@ -95,7 +95,7 @@ chmod 755 run.sh
     ```  
     ![#8](https://github.com/Pavan2280/pes_asic_class/assets/131603225/f1400495-8618-470f-9b3a-aa7c61b8eb6e)
     ![#8_1](https://github.com/Pavan2280/pes_asic_class/assets/131603225/8311e3f6-fa0e-4eb7-84c1-7ef8488f6ea3)
-    ![8_3](https://github.com/Pavan2280/pes_asic_class/assets/131603225/0fba4365-9c9a-4691-89b4-3aba37bf0105)
+    
 
 
    -  Task-2 : Lab To Run C-Program On RISC-V CPU
