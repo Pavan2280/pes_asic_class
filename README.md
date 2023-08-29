@@ -162,7 +162,10 @@ chmod 755 run.sh
     ![2](https://github.com/Pavan2280/pes_asic_class/assets/131603225/f3b9ec50-9622-4bd5-b606-6cf2ac4d55d4)
 
 
++ Introduction to Yosys and Logic Synthesis
 
+![y](https://github.com/Pavan2280/pes_asic_class/assets/131603225/96f84104-686e-4497-8c35-352a29b36268)
+![y2](https://github.com/Pavan2280/pes_asic_class/assets/131603225/d49afe7b-1cff-463f-ab81-c9959fac7b80)
 
 
 
