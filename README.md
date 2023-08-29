@@ -165,7 +165,7 @@ chmod 755 run.sh
 + Introduction to Yosys and Logic Synthesis
 
 ![y](https://github.com/Pavan2280/pes_asic_class/assets/131603225/96f84104-686e-4497-8c35-352a29b36268)
-![y2](https://github.com/Pavan2280/pes_asic_class/assets/131603225/d49afe7b-1cff-463f-ab81-c9959fac7b80)
+![y2](https://github.com/Pavan2280/pes_asic_class/assets/131603225/5a3c649c-50c6-4795-8175-866ecd2e82a8)
 
 
 
