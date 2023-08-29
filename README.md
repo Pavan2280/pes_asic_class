@@ -24,6 +24,11 @@ chmod 755 run.sh
   
 # ASIC Flow Course Assignments - Guided by Kunal Ghosh
 # Table of contents
+
+<details>
+<summary>DAY 1</summary>
+<br>
+
 + DAY-1 : Introduction to RISC-V ISA and GNU compiler toolchain
 
    - Task-1 : C Program To Compute Sum From 1 to N (using gcc) & Spike Simulation And Debug (using RISCV)
