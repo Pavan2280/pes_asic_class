@@ -142,6 +142,23 @@ chmod 755 run.sh
 
 + Design Hierarchy: Larger systems are often broken down into hierarchical modules, each with its own RTL description. These modules communicate with each other using defined interfaces. This modular approach makes it easier to manage complexity and allows for reusable designs. Hierarchical designs can be synthesized together to create a complete system.
 
+# Introduction to open-source simulator iverilog
+
++ Iverilog Based Simulation Flow
+
+![iv](https://github.com/Pavan2280/pes_asic_class/assets/131603225/da9c25d9-c1dd-4f47-8e2e-edd5a839e3c8)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
