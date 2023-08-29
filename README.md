@@ -104,7 +104,8 @@ chmod 755 run.sh
 <summary>DAY-2</summary>
 <br>
 
-[]+ DAY-2 : Introduction to ABI and basic verification flow
+[]
++ DAY-2 : Introduction to ABI and basic verification flow
 
    - Task-1 : Sum 1 to N Using ASM and simulating C program with function call
     + Command to execute code using riscv
