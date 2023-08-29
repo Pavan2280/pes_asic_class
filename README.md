@@ -29,7 +29,7 @@ chmod 755 run.sh
 <summary>DAY-1</summary>
 <br>
 
-+ DAY-1 : Introduction to RISC-V ISA and GNU compiler toolchain
++ Introduction to RISC-V ISA and GNU compiler toolchain
 
    - Task-1 : C Program To Compute Sum From 1 to N (using gcc) & Spike Simulation And Debug (using RISCV)
     + Command to execute code using gcc
@@ -105,7 +105,7 @@ chmod 755 run.sh
 <summary>DAY-2</summary>
 <br>
 
-+ DAY-2 : Introduction to ABI and basic verification flow
++ Introduction to ABI and basic verification flow
 
    - Task-1 : Sum 1 to N Using ASM and simulating C program with function call
     + Command to execute code using riscv
@@ -130,15 +130,17 @@ chmod 755 run.sh
 <summary>DAY-3</summary>
 <br>
 
-# Verilog RTL Design: RTL design is a method used in digital circuit design where the behavior of a system is described using a hardware description language (HDL) like Verilog. It focuses on describing how data is transferred and manipulated between registers, representing the functional blocks of a digital system. This abstraction level is closer to the actual hardware implementation, making it suitable for describing complex digital systems.
+# Introduction to Verilog RTL design and Synthesis
 
-# Behavioral vs. RTL: Verilog offers different levels of abstraction for design. Behavioral describes the system's functionality without specifying the details of how it is implemented, while RTL focuses on how data moves between registers and the logic that operates on that data. RTL design provides a higher level of detail and control over the hardware structure.
++ Verilog RTL Design: RTL design is a method used in digital circuit design where the behavior of a system is described using a hardware description language (HDL) like Verilog. It focuses on describing how data is transferred and manipulated between registers, representing the functional blocks of a digital system. This abstraction level is closer to the actual hardware implementation, making it suitable for describing complex digital systems.
 
-# Registers and Combinational Logic: In RTL design, a digital system is composed of registers (flip-flops) that store data and combinational logic that processes the data. The data flow between registers is described using signals and assignments. Combinational logic is described using procedural blocks, where you specify how inputs are transformed into outputs using Verilog statements.
++ Behavioral vs. RTL: Verilog offers different levels of abstraction for design. Behavioral describes the system's functionality without specifying the details of how it is implemented, while RTL focuses on how data moves between registers and the logic that operates on that data. RTL design provides a higher level of detail and control over the hardware structure.
 
-# Synthesis: Once the RTL description is complete, the design can be synthesized. Synthesis is the process of transforming the RTL description into a gate-level netlist, which represents the design using actual logic gates and flip-flops. This netlist can then be used to create physical layouts for fabrication. Synthesis tools optimize the design for factors like area, power, and timing.
++ Registers and Combinational Logic: In RTL design, a digital system is composed of registers (flip-flops) that store data and combinational logic that processes the data. The data flow between registers is described using signals and assignments. Combinational logic is described using procedural blocks, where you specify how inputs are transformed into outputs using Verilog statements.
 
-# Design Hierarchy: Larger systems are often broken down into hierarchical modules, each with its own RTL description. These modules communicate with each other using defined interfaces. This modular approach makes it easier to manage complexity and allows for reusable designs. Hierarchical designs can be synthesized together to create a complete system.
++ Synthesis: Once the RTL description is complete, the design can be synthesized. Synthesis is the process of transforming the RTL description into a gate-level netlist, which represents the design using actual logic gates and flip-flops. This netlist can then be used to create physical layouts for fabrication. Synthesis tools optimize the design for factors like area, power, and timing.
+
++ Design Hierarchy: Larger systems are often broken down into hierarchical modules, each with its own RTL description. These modules communicate with each other using defined interfaces. This modular approach makes it easier to manage complexity and allows for reusable designs. Hierarchical designs can be synthesized together to create a complete system.
 
 
 
