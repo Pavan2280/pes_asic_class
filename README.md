@@ -352,4 +352,7 @@ chmod 755 run.sh
      ![37](https://github.com/Pavan2280/pes_asic_class/assets/131603225/4465ce93-496b-4718-b9c2-0940446ade9d)
      ![38](https://github.com/Pavan2280/pes_asic_class/assets/131603225/fc229382-7c57-4b37-bc87-804028eea844)
 
++ Combinational logic optimization
+
+
 </details>
