@@ -26,7 +26,7 @@ chmod 755 run.sh
 # Table of contents
 
 <details>
-<summary>DAY 1</summary>
+<summary>DAY-1</summary>
 <br>
 
 + DAY-1 : Introduction to RISC-V ISA and GNU compiler toolchain
@@ -101,7 +101,7 @@ chmod 755 run.sh
     ![#7_2](https://github.com/Pavan2280/pes_asic_class/assets/131603225/d0ee8cd2-162a-4f00-b285-2b95f48bce44)
 
 <details>
-<summary>DAY 1</summary>
+<summary>DAY-2</summary>
 <br>
 
 + DAY-2 : Introduction to ABI and basic verification flow
