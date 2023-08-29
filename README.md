@@ -187,9 +187,20 @@ chmod 755 run.sh
     ![6](https://github.com/Pavan2280/pes_asic_class/assets/131603225/4a06298e-a4df-4620-b22d-4ef4ce4f97ff)
     ![8](https://github.com/Pavan2280/pes_asic_class/assets/131603225/aac0a282-d9fd-4d0d-8dee-cb96e3d99580)
 
-
-
-
+   -  Task-3 : Writing Netlist
+     + Command to execute code
+    ```
+    write_verilog good_mux_netlist.v
+    !gvim good_mux_netlist.v
+    ``` 
+    ![9](https://github.com/Pavan2280/pes_asic_class/assets/131603225/fcdb305a-9d2e-4268-a0b1-24e806fe01b8)
+    
+     + Command using switch
+    ```
+    write_verilog -noattr good_mux_netlist.v
+    !gvim good_mux_netlist.v
+    ``` 
+    ![10](https://github.com/Pavan2280/pes_asic_class/assets/131603225/80ab17d9-5333-4c46-a69a-e504ae4a24db)
 
 
 
