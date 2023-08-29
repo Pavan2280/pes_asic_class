@@ -153,6 +153,7 @@ chmod 755 run.sh
    -  Task-1 :  Implementation of Mux using iverilog
     + Command to execute code
     ```
+    gvim tb_good_mux.v -o good_mux.v
     iverilog good_mux.v tb_good_mux.v
     ./a.out
     gtkwave tb_good_mux.vcd
@@ -165,8 +166,26 @@ chmod 755 run.sh
 + Introduction to Yosys and Logic Synthesis
 
 ![y](https://github.com/Pavan2280/pes_asic_class/assets/131603225/96f84104-686e-4497-8c35-352a29b36268)
+
+
++ To Verify Synthesis
 ![y2](https://github.com/Pavan2280/pes_asic_class/assets/131603225/5a3c649c-50c6-4795-8175-866ecd2e82a8)
 
++ Invoking the yosys
+![4](https://github.com/Pavan2280/pes_asic_class/assets/131603225/3abb8715-30d4-4a6c-b974-a158b21902b5)
+
+   -  Task-2 : Yosys Implementation of good mux 
+     + Command to execute code
+    ```
+    yosys
+    read_liberty -lib ../lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+    read_verilog good_mux.v
+    synth -top good_mux
+    abc -liberty ../lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+    show
+    ```
+    ![6](https://github.com/Pavan2280/pes_asic_class/assets/131603225/4a06298e-a4df-4620-b22d-4ef4ce4f97ff)
+    ![8](https://github.com/Pavan2280/pes_asic_class/assets/131603225/aac0a282-d9fd-4d0d-8dee-cb96e3d99580)
 
 
 
