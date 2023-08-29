@@ -375,6 +375,7 @@ chmod 755 run.sh
       abc -liberty ../lib/sky130_fd_sc_hd__tt_025C_1v80.lib
       show
       ```
+      
       ![42](https://github.com/Pavan2280/pes_asic_class/assets/131603225/eebe012e-1947-4746-a1a9-9d38bb9b74e7)
       
       + Command to execute code
