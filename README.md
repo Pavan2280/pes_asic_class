@@ -612,7 +612,8 @@ chmod 755 run.sh
 
      + Command to execute code
     ``` 
-    iverilog ../my_lib/verilog_model/primitives.v ../my_lib/verilog_model/sky130_fd_sc_hd.v ternary_operator_mux_net.v tb_ternary_operator_mux.v      ./a.out
+    iverilog ../my_lib/verilog_model/primitives.v ../my_lib/verilog_model/sky130_fd_sc_hd.v ternary_operator_mux_net.v tb_ternary_operator_mux.v
+    ./a.out
     gtkwave tb_ternary_operator_mux.vcd 
     ``` 
     ![67](https://github.com/Pavan2280/pes_asic_class/assets/131603225/23c62dba-34fe-4421-b3ca-e0686a1ddfc5)
