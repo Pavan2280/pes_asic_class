@@ -354,7 +354,7 @@ chmod 755 run.sh
 
 
 + Combinational logic optimization
-     - Task-1 : Yosys Implementation
+     - Task-4 : Yosys Implementation
       + Command to execute code
       ```
       yosys
