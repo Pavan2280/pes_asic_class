@@ -353,6 +353,17 @@ chmod 755 run.sh
      ![38](https://github.com/Pavan2280/pes_asic_class/assets/131603225/fc229382-7c57-4b37-bc87-804028eea844)
 
 + Combinational logic optimization
+    - Task-4 : Yosys Implementation
+     + Command to execute code
+     ```
+     yosys
+     read_liberty -lib ../lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+     read_verilog opt_check.v
+     synth -top opt_check
+     opt_clean -purge
+     abc -liberty ../lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+     show
+     ```
 
 
 </details>
