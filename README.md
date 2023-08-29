@@ -364,6 +364,6 @@ chmod 755 run.sh
      abc -liberty ../lib/sky130_fd_sc_hd__tt_025C_1v80.lib
      show
      ```
-
+     ![41](https://github.com/Pavan2280/pes_asic_class/assets/131603225/0e339630-c1c5-42a0-9a29-9857a175760c)
 
 </details>
