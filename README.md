@@ -99,12 +99,12 @@ chmod 755 run.sh
     ```
     ![#7_1](https://github.com/Pavan2280/pes_asic_class/assets/131603225/a1994ddc-1b9c-4497-8984-8b1dcddc66ff)
     ![#7_2](https://github.com/Pavan2280/pes_asic_class/assets/131603225/d0ee8cd2-162a-4f00-b285-2b95f48bce44)
+</details>
 
 <details>
 <summary>DAY-2</summary>
 <br>
 
-[]
 + DAY-2 : Introduction to ABI and basic verification flow
 
    - Task-1 : Sum 1 to N Using ASM and simulating C program with function call
