@@ -157,6 +157,8 @@ chmod 755 run.sh
     ./a.out
     gtkwave tb_good_mux.vcd
     ```
+    ![3](https://github.com/Pavan2280/pes_asic_class/assets/131603225/1c9c3e3e-4094-458f-8aff-a946cf9bd002)
+    
     ![2](https://github.com/Pavan2280/pes_asic_class/assets/131603225/f3b9ec50-9622-4bd5-b606-6cf2ac4d55d4)
 
 
