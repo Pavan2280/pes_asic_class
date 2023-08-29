@@ -124,3 +124,17 @@ chmod 755 run.sh
     ./rv32im.sh
     ```
     ![#8_3](https://github.com/Pavan2280/pes_asic_class/assets/131603225/519d8386-d509-40d6-bfca-b1817b4d2bd9)
+</details>
+
+<details>
+<summary>DAY-3</summary>
+<br>
+
+
+
+
+
+
+
+
+</details>
