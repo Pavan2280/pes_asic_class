@@ -201,7 +201,11 @@ chmod 755 run.sh
     !gvim good_mux_netlist.v
     ``` 
     ![10](https://github.com/Pavan2280/pes_asic_class/assets/131603225/80ab17d9-5333-4c46-a69a-e504ae4a24db)
+</details>
 
+<details>
+<summary>DAY-4</summary>
+<br>
 
 + Lab for Timing libs, hierarchical vs flat synthesis and efficient flop coding styles
 ![11](https://github.com/Pavan2280/pes_asic_class/assets/131603225/d486468c-bc16-4719-bf35-1678423fc655)
@@ -265,6 +269,12 @@ chmod 755 run.sh
      ![21](https://github.com/Pavan2280/pes_asic_class/assets/131603225/de5cb545-5366-4676-a964-50481926748f)
      ![22](https://github.com/Pavan2280/pes_asic_class/assets/131603225/a768fbc7-47e2-410c-a256-23091a0b6119)
      ![23](https://github.com/Pavan2280/pes_asic_class/assets/131603225/d6c51ede-7c82-4566-9687-c6604ea0dc6c)
+
+</details>
+
+<details>
+<summary>DAY-5</summary>
+<br>
 
 + Various flop coding styles and optimization
     - Task-1 : Iverilog Implementation
@@ -558,7 +568,12 @@ chmod 755 run.sh
      ``` 
      ![63](https://github.com/Pavan2280/pes_asic_class/assets/131603225/64dc68fc-199b-4211-aeb4-2b5178d43918)
 
+</details>
 
+<details>
+<summary>DAY-6</summary>
+<br>
+  
 + Labs on GLS and Synthesis-Simulation Mismatch
     - Task-1 : Iverilog Implementation
      + Command to execute code
