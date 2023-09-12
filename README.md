@@ -102,12 +102,10 @@ chmod 755 run.sh
 </details>
 
 <details>
-<summary>DAY-2</summary>
+<summary>DAY-2 : Introduction to ABI and basic verification flow</summary>
 <br>
-
-+ Introduction to ABI and basic verification flow
-
-   - Task-1 : Sum 1 to N Using ASM and simulating C program with function call
+  
++ Task-1 : Sum 1 to N Using ASM and simulating C program with function call
     + Command to execute code using riscv
     ```
     riscv64-unknown-elf-gcc -ofast mabi=lp64 -march=rv64i -o 1_9custom.o 1_9custom.c load.s
@@ -118,7 +116,7 @@ chmod 755 run.sh
     ![#8_1](https://github.com/Pavan2280/pes_asic_class/assets/131603225/8311e3f6-fa0e-4eb7-84c1-7ef8488f6ea3)
     ![8_4_new](https://github.com/Pavan2280/pes_asic_class/assets/131603225/e88722d5-63b8-41e2-9e41-35c9bbf87080)
 
-   -  Task-2 : Lab To Run C-Program On RISC-V CPU
++  Task-2 : Lab To Run C-Program On RISC-V CPU
     ```
     chmod 777 rv32im.sh
     ./rv32im.sh
@@ -129,10 +127,8 @@ chmod 755 run.sh
 # RTL design using Verilog with SKY130 Technology
 
 <details>
-<summary>DAY-3</summary>
+<summary>DAY-3 : Introduction to Verilog RTL design and Synthesis</summary>
 <br>
-
-# Introduction to Verilog RTL design and Synthesis
 
 + Verilog RTL Design: RTL design is a method used in digital circuit design where the behavior of a system is described using a hardware description language (HDL) like Verilog. It focuses on describing how data is transferred and manipulated between registers, representing the functional blocks of a digital system. This abstraction level is closer to the actual hardware implementation, making it suitable for describing complex digital systems.
 
