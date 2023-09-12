@@ -146,9 +146,7 @@ chmod 755 run.sh
 
 ![iv](https://github.com/Pavan2280/pes_asic_class/assets/131603225/da9c25d9-c1dd-4f47-8e2e-edd5a839e3c8)
 
-+  Labs using iverilog and gtkwave
-    
-   -  Task-1 :  Implementation of Mux using iverilog
++  Task-1 :  Implementation of Mux using iverilog
     + Command to execute code
     ```
     gvim tb_good_mux.v -o good_mux.v
