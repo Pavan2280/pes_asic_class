@@ -30,7 +30,7 @@ chmod 755 run.sh
 <details>
 <summary>DAY-1</summary>
 <br>
-   + Introduction to RISC-V ISA and GNU compiler toolchain
++ Introduction to RISC-V ISA and GNU compiler toolchain
    - Task-1 : C Program To Compute Sum From 1 to N (using gcc) & Spike Simulation And Debug (using RISCV)
     + Command to execute code using gcc
     ```
