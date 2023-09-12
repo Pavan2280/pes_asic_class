@@ -642,5 +642,3 @@ chmod 755 run.sh
     ``` 
     ![73](https://github.com/Pavan2280/pes_asic_class/assets/131603225/0fe7f363-22f4-49eb-a717-45c80c1066c0)
 </details>
-
-# Advanced Physical Design using OpenLANE/SKY130
