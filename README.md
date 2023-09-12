@@ -1,4 +1,7 @@
-# ASIC Flow Course
+# ASIC Flow Course 
+
+This Repository Guides you to complete the ASIC flow from scratch 
+
 # Objective 
 > VLSI ASIC design involves creating custom circuits optimized for specific tasks using RTL (Register-Transfer Level) description. This involves designing digital logic using hardware description languages like VHDL or Verilog, converting it to gate-level representation through synthesis, and eventually translating it into a physical layout for fabrication. The process includes architectural design, logic implementation, verification, and testing, resulting in highly efficient and tailored integrated circuits.
 
