@@ -146,7 +146,7 @@ chmod 755 run.sh
 
 ![iv](https://github.com/Pavan2280/pes_asic_class/assets/131603225/da9c25d9-c1dd-4f47-8e2e-edd5a839e3c8)
 
-+  Task-1 :  Implementation of Mux using iverilog
++ Task-1 :  Implementation of Mux using iverilog
     + Command to execute code
     ```
     gvim tb_good_mux.v -o good_mux.v
@@ -170,7 +170,7 @@ chmod 755 run.sh
 + Invoking the yosys
 ![4](https://github.com/Pavan2280/pes_asic_class/assets/131603225/3abb8715-30d4-4a6c-b974-a158b21902b5)
 
-   -  Task-2 : Yosys Implementation of good mux 
++ Task-2 : Yosys Implementation of good mux 
      + Command to execute code
     ```
     yosys
@@ -183,7 +183,7 @@ chmod 755 run.sh
     ![6](https://github.com/Pavan2280/pes_asic_class/assets/131603225/4a06298e-a4df-4620-b22d-4ef4ce4f97ff)
     ![8](https://github.com/Pavan2280/pes_asic_class/assets/131603225/aac0a282-d9fd-4d0d-8dee-cb96e3d99580)
 
-   -  Task-3 : Writing Netlist
++ Task-3 : Writing Netlist
      + Command to execute code
     ```
     write_verilog good_mux_netlist.v
