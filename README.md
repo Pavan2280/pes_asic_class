@@ -103,11 +103,11 @@ chmod 755 run.sh
     ![#7_2](https://github.com/Pavan2280/pes_asic_class/assets/131603225/d0ee8cd2-162a-4f00-b285-2b95f48bce44)
 </details>
 
+# RTL design using Verilog with SKY130 Technology
+
 <details>
 <summary>DAY-2</summary>
 <br>
-
-# RTL design using Verilog with SKY130 Technology
 
 + Introduction to ABI and basic verification flow
 
