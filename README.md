@@ -25,7 +25,7 @@ chmod 755 run.sh
 # ASIC Flow Course Assignments - Guided by Kunal Ghosh
 # Table of contents
 
-# WEEK-1
+# Week - 1 
 
 <details>
 <summary>DAY-1 : Introduction to RISC-V ISA and GNU compiler toolchain</summary>
@@ -124,7 +124,7 @@ chmod 755 run.sh
     ![#8_3](https://github.com/Pavan2280/pes_asic_class/assets/131603225/519d8386-d509-40d6-bfca-b1817b4d2bd9)
 </details>
 
-# RTL design using Verilog with SKY130 Technology
+# Week - 2 : RTL design using Verilog with SKY130 Technology
 
 <details>
 <summary>DAY-3 : Introduction to Verilog RTL design and Synthesis</summary>
@@ -642,4 +642,4 @@ chmod 755 run.sh
     ![73](https://github.com/Pavan2280/pes_asic_class/assets/131603225/0fe7f363-22f4-49eb-a717-45c80c1066c0)
 </details>
 
-# Advanced Physical Design using OpenLANE/SKY130
+# Week - 3 : Advanced Physical Design using OpenLANE/SKY130
