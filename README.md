@@ -200,14 +200,13 @@ chmod 755 run.sh
 </details>
 
 <details>
-<summary>DAY-4</summary>
+<summary>DAY-4 : Lab for Timing libs, hierarchical vs flat synthesis and efficient flop coding styles</summary>
 <br>
 
-+ Lab for Timing libs, hierarchical vs flat synthesis and efficient flop coding styles
 ![11](https://github.com/Pavan2280/pes_asic_class/assets/131603225/d486468c-bc16-4719-bf35-1678423fc655)
 ![zz](https://github.com/Pavan2280/pes_asic_class/assets/131603225/4fbe5e80-4116-4ea2-8109-f5cab90b04a9)
 
-    - Task-1 : Hierarchial v/s flat synthesis
++ Task-1 : Hierarchial v/s flat synthesis
      + Command to execute code
     ```
     gvim multiple_modules.v
@@ -240,7 +239,7 @@ chmod 755 run.sh
      ![18](https://github.com/Pavan2280/pes_asic_class/assets/131603225/731046e6-f73c-4447-9866-b7966cbe48e5)
      ![19](https://github.com/Pavan2280/pes_asic_class/assets/131603225/2a271d1a-5607-425e-933c-856012fd8177)
 
-    - Task-2 : Yosys Implementation
++ Task-2 : Yosys Implementation
      + Command to execute code
      ```
      yosys
@@ -269,11 +268,10 @@ chmod 755 run.sh
 </details>
 
 <details>
-<summary>DAY-5</summary>
+<summary>DAY-5:  Various flop coding styles and optimization , Combinational logic optimization , Sequential Logic Optimization , Sequential Optimzation</summary>
 <br>
 
-+ Various flop coding styles and optimization
-    - Task-1 : Iverilog Implementation
++ Task-1 : Iverilog Implementation
      + Command to execute code
      ``` 
      iverilog dff_asyncres.v tb_dff_asyncres.v
@@ -296,7 +294,7 @@ chmod 755 run.sh
      ```
      ![28](https://github.com/Pavan2280/pes_asic_class/assets/131603225/65c85fc8-54b4-4cbf-a702-468415615e1c)
 
-    - Task-2 : Yosys Implementation
++ Task-2 : Yosys Implementation
      + Command to execute code
      ``` 
      yosys
@@ -331,7 +329,7 @@ chmod 755 run.sh
      ```
      ![33](https://github.com/Pavan2280/pes_asic_class/assets/131603225/38b3950e-2e2e-4df0-928a-87ddb2b46b8b)
 
-    - Task-3 : Mul2 & Mul8 Interesting optimisation
++ Task-3 : Mul2 & Mul8 Interesting optimisation
      + Command to execute code
      ```  
      gvim mult_*.v -o
@@ -358,8 +356,7 @@ chmod 755 run.sh
      ![37](https://github.com/Pavan2280/pes_asic_class/assets/131603225/4465ce93-496b-4718-b9c2-0940446ade9d)
      ![38](https://github.com/Pavan2280/pes_asic_class/assets/131603225/fc229382-7c57-4b37-bc87-804028eea844)
 
-+ Combinational logic optimization
-    - Task-4 : Yosys Implementation
++ Task-4 : Yosys Implementation
      + Command to execute code
      ```
      yosys
@@ -447,8 +444,8 @@ chmod 755 run.sh
      ``` 
      ![48](https://github.com/Pavan2280/pes_asic_class/assets/131603225/74b9af1b-37b8-4258-ae3d-b9928417ac47)
 
-+ Sequential Logic Optimization
-    - Task-1 : Iverilog Implementation
+
++ Task-1 : Iverilog Implementation
      + Command to execute code
      ``` 
      iverilog dff_const1.v tb_dff_const1.v
@@ -489,7 +486,7 @@ chmod 755 run.sh
      ```
      ![59](https://github.com/Pavan2280/pes_asic_class/assets/131603225/eeebdc43-57b2-4f3d-a6e6-811604fd4eb8)
 
-    - Task-2 : Yosys Implementation
++ Task-2 : Yosys Implementation
      + Command to execute code
      ``` 
      yosys
@@ -537,8 +534,8 @@ chmod 755 run.sh
      ```
      ![60](https://github.com/Pavan2280/pes_asic_class/assets/131603225/4b419170-65e9-438c-819c-c85eb0ad47f1)
 
-+ Sequential Optimzation
-    - Task-1 : Yosys Implementation
+
++ Task-1 : Yosys Implementation
      + Command to execute code
      ``` 
      gvim counter_opt.v
@@ -567,11 +564,10 @@ chmod 755 run.sh
 </details>
 
 <details>
-<summary>DAY-6</summary>
+<summary>DAY-6 : Labs on GLS and Synthesis-Simulation Mismatch</summary>
 <br>
   
-+ Labs on GLS and Synthesis-Simulation Mismatch
-    - Task-1 : Iverilog Implementation
++ Task-1 : Iverilog Implementation
      + Command to execute code
      ``` 
      iverilog ternary_operator_mux.v tb_ternary_operator_mux.v
@@ -596,7 +592,7 @@ chmod 755 run.sh
      ``` 
      ![71](https://github.com/Pavan2280/pes_asic_class/assets/131603225/a603942d-af4c-4e56-9337-91ea52f60b6b)
 
-    - Task-2 : Yosys & GLS Implementation
++ Task-2 : Yosys & GLS Implementation
      + Command to execute code
      ``` 
      yosys
