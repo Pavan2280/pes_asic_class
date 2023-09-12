@@ -268,7 +268,7 @@ chmod 755 run.sh
 </details>
 
 <details>
-<summary>DAY-5:  Various flop coding styles and optimization , Combinational logic optimization , Sequential Logic Optimization , Sequential Optimzation</summary>
+<summary>DAY-5:  Various flop coding styles , Combinational Logic & Sequential Logic Optimization</summary>
 <br>
 
 + Task-1 : Iverilog Implementation
