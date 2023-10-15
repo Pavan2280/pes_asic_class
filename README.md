@@ -29,7 +29,7 @@ chmod 755 run.sh
 ./run.sh 
 ```
   
-# ASIC Flow Course Assignments - Guided by Kunal Ghosh
+## ASIC Flow Course Assignments - Guided by Kunal Ghosh
 # Table of contents
 
 <details>
